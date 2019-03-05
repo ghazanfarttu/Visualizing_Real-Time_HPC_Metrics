@@ -11,7 +11,7 @@ Currently we support current power usage however HPC real-time monitoring data i
 
 ### Current Progress
 See the output for your reference.
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/ghazanfarttu/Visualizing_Real-Time_HPC_Metrics/blob/master/HPCC_Power_Usage.gif)
 
 ## License
 
