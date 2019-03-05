@@ -9,6 +9,10 @@ HPC monitoring refers checking HPC data center in terms of HPC infrastructure he
 ### Current Progress
 Currently we support current power usage however HPC real-time monitoring data is not accessible on github so unfortunately, it is not possible to have a live demo.
 
+### Current Progress
+See the output for your reference.
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
